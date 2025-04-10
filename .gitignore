@@ -35,10 +35,19 @@ ENV/
 .DS_Store
 
 # Project specific
+*.json
 user_data.json
+tasks.json
+config.json
+stats.json
 *.log
 *.bak
 *.tmp
+*.data
+*.dat
+*.db
+*.sqlite
+*.sqlite3
 
 # Testing
 .coverage
@@ -60,11 +69,6 @@ coverage.xml
 *.zip
 *.rar
 *.7z
-
-# Database
-*.db
-*.sqlite
-*.sqlite3
 
 # Jupyter Notebook
 .ipynb_checkpoints

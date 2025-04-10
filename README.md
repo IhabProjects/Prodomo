@@ -1,6 +1,6 @@
 # Prodomo - The Epic Productivity Garden
 
-![Prodomo Logo](https://via.placeholder.com/150x50?text=PRODOMO)
+![Prodomo Logo](/public/logo.png)
 
 A gamified Pomodoro timer application that transforms your productivity journey into an epic gardening adventure. Grow your focus, nurture your tasks, and watch your productivity garden flourish!
 
